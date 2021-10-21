@@ -1,11 +1,17 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 # awesome air-Q
+
 Curating the community resources and tooling of the awesome [air-Q](https://www.air-q.com) device.
 
-# community driven integrations
 
-## smart home
+## about air-Q - the intelligent and comprehensive air analyser
+
+With the [air-Q](https://www.air-q.com) you monitor the air quality in real time, detect sources of air pollutants and keep an eye on the _stale_ air - for a healthy life, restful sleep and productive work.
+
+##  community driven integrations
+
+### smart home
 
 ### [homee](https://www.hom.ee)
 * 📰 https://community.hom.ee/t/air-q-luftanalysator/19831
