@@ -24,8 +24,7 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
 * :octocat: [aurelio1/openhab-addons/](https://github.com/aurelio1/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.airq)
 
-#### [Homematic](https://www.eq-3.de/produkte/homematic.html)
-* 📰 https://homematic-forum.de/forum/viewtopic.php?f=77&t=63672
+#### [Homematic](https://www.eq-3.de/produkte/homematic.html) / [node red](https://nodered.org/)
 * 📰 https://homematic-forum.de/forum/viewtopic.php?t=63672
 
 #### [FHEM](https://fhem.de/)
@@ -40,5 +39,5 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 #### [Home Assistant](https://www.home-assistant.io/)
 * 🔗 https://forum.air-q.com/topic/137/iobroker-script/7
 
-#### [node red](https://nodered.org/)
+#### [homey](https://homey.app/)
 * 🔗 https://homey.app/de-de/app/com.gruijter.airq/airQ/
