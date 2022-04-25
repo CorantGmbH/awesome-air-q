@@ -35,5 +35,5 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 #### [Home Assistant](https://www.home-assistant.io/)
 * 🔗 https://forum.air-q.com/topic/137/iobroker-script/7
 
-#### [homey](https://homey.app/)
+#### [Homey](https://homey.app/)
 * 🔗 https://homey.app/de-de/app/com.gruijter.airq/airQ/
