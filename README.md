@@ -16,10 +16,6 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 #### [Homebridge](https://github.com/homebridge/homebridge)
 * :octocat: [CorantGmbH/homebridge-air-q](https://github.com/CorantGmbH/homebridge-air-q)
 
-#### [homee](https://www.hom.ee)
-* 📰 https://community.hom.ee/t/air-q-luftanalysator/19831
-* :octocat: [gruijter/com.gruijter.airq](https://github.com/gruijter/com.gruijter.airq)
-
 #### [openHAB](https://www.openhab.org/)
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
 * :octocat: [aurelio1/openhab-addons/](https://github.com/aurelio1/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.airq)
