@@ -16,16 +16,11 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 #### [Homebridge](https://github.com/homebridge/homebridge)
 * :octocat: [CorantGmbH/homebridge-air-q](https://github.com/CorantGmbH/homebridge-air-q)
 
-#### [homee](https://www.hom.ee)
-* 📰 https://community.hom.ee/t/air-q-luftanalysator/19831
-* :octocat: [gruijter/com.gruijter.airq](https://github.com/gruijter/com.gruijter.airq)
-
 #### [openHAB](https://www.openhab.org/)
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
 * :octocat: [aurelio1/openhab-addons/](https://github.com/aurelio1/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.airq)
 
-#### [Homematic](https://www.eq-3.de/produkte/homematic.html)
-* 📰 https://homematic-forum.de/forum/viewtopic.php?f=77&t=63672
+#### [Homematic](https://www.eq-3.de/produkte/homematic.html) / [node red](https://nodered.org/)
 * 📰 https://homematic-forum.de/forum/viewtopic.php?t=63672
 
 #### [FHEM](https://fhem.de/)
@@ -40,5 +35,5 @@ With the [air-Q](https://www.air-q.com) you monitor the air quality in real time
 #### [Home Assistant](https://www.home-assistant.io/)
 * 🔗 https://forum.air-q.com/topic/137/iobroker-script/7
 
-#### [node red](https://nodered.org/)
+#### [Homey](https://homey.app/)
 * 🔗 https://homey.app/de-de/app/com.gruijter.airq/airQ/
