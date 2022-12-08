@@ -15,8 +15,9 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 ### [Homebridge](https://github.com/homebridge/homebridge)
 * :octocat: [CorantGmbH/homebridge-air-q](https://github.com/CorantGmbH/homebridge-air-q)
 
-### [Home Assistant](https://www.home-assistant.io/) custom integration
-* :octocat: [CorantGmbH/airq-custom_integration](https://github.com/CorantGmbH/airq-custom_integration)
+### [Home Assistant](https://www.home-assistant.io/)
+* 🔗 https://www.home-assistant.io/integrations/airq (core integration)
+* :octocat: [CorantGmbH/airq-custom_integration](https://github.com/CorantGmbH/airq-custom_integration) (custom integration)
 
 ### [openHAB](https://www.openhab.org/)
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
