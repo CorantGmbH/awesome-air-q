@@ -37,3 +37,6 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 
 ### [Homey](https://homey.app/)
 * 🔗 https://homey.app/de-de/app/com.gruijter.airq/airQ/
+
+### [IP-Symcon](https://www.symcon.de/de/produkt/hausbesitzer/)
+* :octocat: [styletronix/SymconAirQ](https://github.com/styletronix/SymconAirQ)
