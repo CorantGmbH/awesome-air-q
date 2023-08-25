@@ -22,12 +22,14 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 ### [openHAB](https://www.openhab.org/)
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
 * :octocat: [aurelio1/openhab-addons/](https://github.com/aurelio1/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.airq)
+* 🔗 https://github.com/openhab/openhab-addons/tree/main/bundles/org.openhab.binding.airq
 
 ### [Homematic](https://www.eq-3.de/produkte/homematic.html) / [node red](https://nodered.org/)
 * 📰 https://homematic-forum.de/forum/viewtopic.php?t=63672
 
 ### [FHEM](https://fhem.de/)
 * 📰 https://forum.fhem.de/index.php?topic=113201.0
+* 📰 https://support.air-q.com/support/wie-genau-funktioniert-die-einbindung-in-fhem/
 
 ### [iobroker](https://www.iobroker.net/)
 * 📰 https://forum.air-q.com/topic/137/iobroker-script/7
@@ -37,6 +39,8 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 
 ### [Homey](https://homey.app/)
 * 🔗 https://homey.app/de-de/app/com.gruijter.airq/airQ/
+* 🔗 https://github.com/gruijter/com.gruijter.airq
+* 🔗 
 
 ### [IP-Symcon](https://www.symcon.de/de/produkt/hausbesitzer/)
 * :octocat: [styletronix/SymconAirQ](https://github.com/styletronix/SymconAirQ)
