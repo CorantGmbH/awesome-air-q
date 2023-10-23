@@ -48,5 +48,5 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 ## Sonstiges
 
 ### [PHP Script zum Speichern der air-Q-Daten in eine Textdatei]
-* 📰 air-Q-MUI-Dokumentation (http://www.i-med.ac.at/msig/forschung/airQ/airQmui_Doku.pdf)
-* 📰 air-Q-MUI-Dateien (http://www.i-med.ac.at/msig/forschung/airQ/airQmui.zip)
+* 📰 http://www.i-med.ac.at/msig/forschung/airQ/airQmui_Doku.pdf (air-Q-MUI-Dokumentation)
+* 📰 http://www.i-med.ac.at/msig/forschung/airQ/airQmui.zip (air-Q-MUI-Dateien)
