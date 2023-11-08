@@ -32,7 +32,7 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 * 📰 https://support.air-q.com/support/wie-genau-funktioniert-die-einbindung-in-fhem/
 
 ### [iobroker](https://www.iobroker.net/)
-* 📰 https://forum.air-q.com/topic/137/iobroker-script/7
+* :octocat: https://github.com/CorantGmbH/ioBroker.air-q
 
 ### [WeeWX](https://weewx.com/)
 * :octocat: [roe-dl/weewx-airQ](https://github.com/roe-dl/weewx-airQ)
