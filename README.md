@@ -44,7 +44,10 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 ### [IP-Symcon](https://www.symcon.de/de/produkt/hausbesitzer/)
 * :octocat: [styletronix/SymconAirQ](https://github.com/styletronix/SymconAirQ)
 
-## Sonstiges
+## Tools
 
-### [PHP Script zum Speichern der air-Q-Daten in eine Textdatei]
+### air-Q [Prometheus Exporter for Grafana](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus)
+* :octocat: [Wandmalfarbe/airq-prometheus-exporter](https://github.com/Wandmalfarbe/airq-prometheus-exporter)
+
+### PHP script for saving air-Q data in a single text file
 * 📰 https://github.com/Inst-for-Med-Statistics-and-Informatics/airQmsi
