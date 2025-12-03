@@ -17,7 +17,7 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 
 ### [Home Assistant](https://www.home-assistant.io/)
 * 🔗 https://www.home-assistant.io/integrations/airq (core integration)
-* :octocat: [CorantGmbH/airq-custom_integration](https://github.com/CorantGmbH/airq-custom_integration) (custom integration)
+* :octocat: [CorantGmbH/airq-custom_integration](https://github.com/CorantGmbH/airq-custom_integration) (custom integration, obsolete)
 
 ### [openHAB](https://www.openhab.org/)
 * 🔗 https://community.openhab.org/t/new-air-q-binding/115989/4
