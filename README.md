@@ -58,3 +58,8 @@ With [air-Q](https://www.air-q.com) you monitor the air quality in real time, de
 Enables Claude Desktop, Claude Code, and other MCP clients to directly query and configure air-Q devices on your local network.
 * :octocat: [CorantGmbH/mcp-airq](https://github.com/CorantGmbH/mcp-airq)
 * 🔗 https://pypi.org/project/mcp-airq/
+
+### air-Q Cloud [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) Server
+Enables Claude Desktop, Claude Code, and other MCP clients to access air quality data from air-Q devices via the cloud API — without needing local network access.
+* :octocat: [CorantGmbH/mcp-airq-cloud](https://github.com/CorantGmbH/mcp-airq-cloud)
+* 🔗 https://pypi.org/project/mcp-airq-cloud/
